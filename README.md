@@ -1,16 +1,21 @@
-### Hi there 👋
+> # Hi there :wave:, I'm Rone
 
-<!--
-**RMichelan/rmichelan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- :sparkler: **Mobile** & **Web** Developer
+
+- :office: **QA Analyst** at [**RadiusNet**](https://www.radius.net.br/)
+
+- :speech_balloon: Ask me about **HTML**, **CSS**, **PHP**, **JavaScript**, **React Native**
+
+- :books: I'm studying **NodeJS**, **Python**, **TypeScript**
+
+-  :star: Games & Technology
+
+- :rocket: Keep learning
+
+
+### Contact
+[<img src="images/linkedin.png" width=40px>](https://www.linkedin.com/in/rone-michelan)
+[<img src="images/email.png" width=40px>](rone.michelan@gmail.com)
