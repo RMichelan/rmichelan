@@ -1,8 +1,9 @@
 [<img src="images/github-cover-image.png" width=100%>](https://www.linkedin.com/in/rone-michelan)
 
 
-### About
 > ---
+### About
+
 :sparkler: **Mobile** & **Web** Developer
 
 :office: **QA Analyst** at [**RadiusNet**](https://www.radius.net.br/)
@@ -17,5 +18,6 @@
 
 > ---
 ### Contact
+
 [<img src="images/linkedin.png" width=40px>](https://www.linkedin.com/in/rone-michelan)
 [<img src="images/email.png" width=40px>](mailto:rone.michelan@gmail.com)
