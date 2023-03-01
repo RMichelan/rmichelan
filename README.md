@@ -6,9 +6,7 @@
 
 :sparkler: **Mobile** & **Web** Developer
 
-:office: **Software Engineer**
-
-:speech_balloon: Ask me about **HTML**, **CSS**, **PHP**, **JavaScript**, **React Native**
+:speech_balloon: Ask me about **HTML**, **CSS**, **PHP**, **JavaScript**, **React JS**, **React Native**
 
 :books: I'm studying **NodeJS**, **Python**, **TypeScript**
 
