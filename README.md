@@ -6,7 +6,7 @@
 
 :sparkler: **Mobile** & **Web** Developer
 
-:office: **QA Analyst** at [**RadiusNet**](https://www.radius.net.br/)
+:office: **Software Engineer**
 
 :speech_balloon: Ask me about **HTML**, **CSS**, **PHP**, **JavaScript**, **React Native**
 
